@@ -7,7 +7,7 @@
 ⚡ Fun fact: Enjoying youth without any problems!  
 
 ## 🔗 Connect with Me
-[Discord](------) | [Tiktok](-----) | [instagram](-------)  
+[Discord](https://discord.com/channels/@me) | [Tiktok](https://www.tiktok.com/@fumiya_19)
 
 ## 📊 GitHub Stats
 ![Shimizu019's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shimizu019&show_icons=true&theme=radical)  

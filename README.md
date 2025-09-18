@@ -1,18 +1,5 @@
 # 🌌 Shimizu019
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
-  <img src="https://img.shields.io/github/repo-size/Shimizu019/Shimizu019" alt="Repo Size" />
-  <img src="https://img.shields.io/github/last-commit/Shimizu019/Shimizu019" alt="Last Commit" />
-  <img src="https://komarev.com/ghpvc/?username=Shimizu019&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F795&center=true&vCenter=true&width=500&lines=👋+Welcome+to+Shimizu019's+Universe;💻+Coding+%26+Creating;🚀+Always+Learning;🔥+Pushing+Limits" alt="Typing SVG" />
-</p>
-
----
-
 ## 📚 Table of Contents
 
 * [🎥 Preview](#-preview)
@@ -127,16 +114,14 @@ java -jar target/shimizu-app.jar
 
 ## 🏆 Achievements
 
-* 🥇 Active Contributor
-* 🌟 Open-source Enthusiast
-* 🔧 Problem Solver
-* 🚀 Lifelong Learner
+* 
+* 
+* 
+* 
 
 ---
 
 ## 📜 License
-
-MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 

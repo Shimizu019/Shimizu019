@@ -12,7 +12,7 @@
 📌 Reach out via issues or pull requests!
 
 <p align="center">
-  <img src="https://discord.com/channels/@me" />
+  <img src="[![Discord](https://img.shields.io/badge/Let's%20Connect-Discord-blue?style=for-the-badge&logo=discord)](https://discord.com/)https://discord.com/channels/@me" />
   <img src="https://img.shields.io/badge/Let's%20Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   <img src="https://img.shields.io/badge/Chat%20With%20Me-Discord-7289da?style=for-the-badge&logo=discord" alt="Discord" />
 </p>

@@ -36,6 +36,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,java,php,postgres,git,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" />
 </p>
 
 ---

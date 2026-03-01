@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/GitHub-Shimizu019-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://discord.gg/yourinvite">
-    <img src="https://img.shields.io/badge/Chat%20With%20Me-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chat%20With%20Me-_shimizu20-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
 

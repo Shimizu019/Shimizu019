@@ -2,7 +2,8 @@
 
 # 🖼️ Screenshots
 
-![screenshot-1](assets/screenshot-1.png)
+![screenshot-1](<img width="1354" height="675" alt="Screenshot 2026-03-01 154449" src="https://github.com/user-attachments/assets/12b01648-6fd0-4d81-ba22-9367c0d25a2d" />
+ )
 
 ## 📊 Stats
 

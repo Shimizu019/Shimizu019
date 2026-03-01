@@ -4,11 +4,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimizu019&theme=radical" alt="Streak Stats" />
-  
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shimizu019&theme=radical&no-frame=true&no-bg=false&margin-w=15" alt="Trophies" />
 </p>
 
 <p align="center">

@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Shimizu019&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
-
 <!-- Typing Intro -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Web+Developer;Open+Source+Learner;Building+Cool+Things+🚀" />

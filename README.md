@@ -50,7 +50,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Benju Guzman&theme=tokyo-night" />
 </p>
 
 ---

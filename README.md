@@ -1,75 +1,84 @@
-<!-- Header -->
+<!-- Animated Header -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:374151&height=170&section=header&text=Benju%20Guzman&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Benju%20Guzman&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">BSIT Student · Aspiring Full-Stack Developer</h3>
+<!-- Typing Intro -->
 
 <p align="center">
-  Building clean web applications and learning modern technologies.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Benju+Guzman;Web+Developer;BSIT+Student;Open+Source+Learner;Building+Modern+Web+Apps" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Shimizu019">
-    <img src="https://img.shields.io/badge/GitHub-Shimizu019-181717?style=flat-square&logo=github&logoColor=white" />
+  <a href="https://github.com/Shimizu019" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Shimizu019-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Shimizu019&label=Profile%20Views&style=flat-square&color=555555" />
+  <img src="https://img.shields.io/badge/Discord-_shimizu20-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Shimizu019&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## About
+## 👨‍💻 About Me
 
-I'm a 3rd-year BSIT student focused on web development, backend systems, and UI/UX design.
-
-Currently working with **PHP, Laravel, JavaScript, MySQL, Tailwind CSS, and Java**, while learning **Node.js, Go, Flutter, Dart, Expo, and JSON**.
+* 🔭 Currently working on personal and academic projects
+* 🌱 Continuously learning new technologies and best practices
+* 💻 Interested in Full-Stack Web Development and UI/UX Design
+* 🎓 3rd Year BSIT Student
+* 🎯 Goal: Become a skilled Full-Stack Developer
+* ⚡ Passionate about creating clean, responsive, and user-friendly applications
+* 📫 Reach me on Discord: `_shimizu20`
 
 ---
 
-## Tech Stack
+## 🚀 Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,java" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
 </p>
 
-### Frameworks & Technologies
+### ⚙️ Frameworks & Technologies
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,mysql" />
 </p>
 
-### Tools
+### 🛠️ Tools & Platforms
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,laragon" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </p>
 
-### Currently Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
-<p>
+### 📚 Currently Learning
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,go,dart,flutter" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
 ---
 
-## GitHub
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shimizu019&show_icons=true&hide_border=true&theme=transparent" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shimizu019&hide_border=true&theme=transparent" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Learning. Building. Improving.</sub>
+  <b>✨ Building modern web experiences one project at a time. ✨</b><br/>
+  <b>💻 Aspiring Full-Stack Web Developer & UI/UX Designer</b>
 </p>

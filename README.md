@@ -72,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/Shimizu019" alt="Contribution Graph" />
+  <img src="https://streak-stats.demolab.com/?user=Shimizu019&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
 </p>
 
 ---

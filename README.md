@@ -72,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/0e75b6/Shimizu019" alt="Contribution Graph" />
 </p>
 
 ---

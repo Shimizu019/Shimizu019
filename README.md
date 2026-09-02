@@ -26,7 +26,6 @@
 * 🌱 Continuously learning new technologies and best practices
 * 💻 Interested in Full-Stack Web Development and UI/UX Design
 * 🎓 3rd Year BSIT Student
-* 🎯 Goal: Become a skilled Full-Stack Developer
 * ⚡ Passionate about creating clean, responsive, and user-friendly applications
 * 📫 Reach me on Discord: `_shimizu20`
 
@@ -73,7 +72,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shimizu019&theme=tokyo-night&hide_border=true&area=true&v=1" alt="Contribution Graph" />
 </p>
 
 ---

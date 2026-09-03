@@ -24,7 +24,7 @@
 
 * 🔭 Currently working on personal and academic projects
 * 🌱 Continuously learning new technologies and best practices
-* 💻 Interested in Full-Stack Web Development and UI/UX Design
+* 💻 Interested in Front-End and Back-End, Web Developer and UI/UX Design
 * 🎓 3rd Year BSIT Student
 * ⚡ Passionate about creating clean, responsive, and user-friendly applications
 * 📫 Reach me on Discord: `_shimizu20`

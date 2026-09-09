@@ -22,30 +22,30 @@
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on personal and academic projects
-* 🌱 Continuously learning new technologies and best practices
-* 💻 Interested in Front-End and Back-End, Web Developer and UI/UX Design
-* 🎓 3rd Year BSIT Student
-* ⚡ Passionate about creating clean, responsive, and user-friendly applications
-* 📫 Reach me on Discord: `_shimizu20`
+* 🔭 Currently working on personal and academic projects.
+* 🌱 Continuously learning new technologies and best practices.
+* 💻 Interested in Front-End and Back-End, Web Developer and UI/UX Design.
+* 🎓 3rd Year BSIT Student.
+* ⚡ Passionate about creating clean, responsive, and user-friendly applications.
+* 📫 Reach me on Discord: `_shimizu20`.
 
 ---
 
 ## 🚀 Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,java" />
 </p>
 
-### ⚙️ Frameworks & Technologies
+### Frameworks & Technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,tailwind,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
-### 📚 Currently Learning
+### Currently Learning
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,go,dart,flutter" />
@@ -69,7 +69,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Shimizu019&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
@@ -79,5 +79,5 @@
 
 <p align="center">
   <b>✨ Building modern web experiences one project at a time. ✨</b><br/>
-  <b>💻 Aspiring Full-Stack Web Developer & UI/UX Designer</b>
+  <b> 💻Aspiring Full-Stack Web Developer & UI/UX Designer💻 </b>
 </p>

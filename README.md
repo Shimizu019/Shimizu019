@@ -7,7 +7,7 @@
 <!-- Typing Intro -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Benju+Guzman;Web+Developer;BSIT+Student;Open+Source+Learner;Building+Modern+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Benju+Guzman;Web+Developer;BSIT+Student;Open+Source" />
 </p>
 
 <p align="center">
@@ -59,7 +59,7 @@
 ### Currently Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,go,dart,flutter" />
+  <img src="https://skillicons.dev/icons?i=nodejs,go,dart,flutter,react,typescript" />
 </p>
 
 <p align="center">
